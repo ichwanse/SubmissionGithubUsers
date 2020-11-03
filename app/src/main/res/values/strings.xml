@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmissionOneGithubUsers</string>
+    <string name="ikhwan_suciadi">Ikhwan Suciadi</string>
+    <string name="ichwanse">ichwanse</string>
+    <string name="profile">Profile</string>
+    <string name="ichwan_suciadi">Ichwan Suciadi</string>
+    <string name="username">ichwanse</string>
+    <string name="location">location</string>
+    <string name="follower">13</string>
+    <string name="following">6</string>
+</resources>
